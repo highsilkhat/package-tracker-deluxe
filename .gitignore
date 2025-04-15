@@ -50,3 +50,25 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.idea/
+.nova/
+
+# Created by https://www.toptal.com/developers/gitignore/api/lua
+# Edit at https://www.toptal.com/developers/gitignore?templates=lua
+
+### Lua ###
+# Compiled Lua sources
+luac.out
+
+# luarocks build files
+*.src.rock
+*.zip
+*.tar.gz
+
+# End of https://www.toptal.com/developers/gitignore/api/lua
+
+# Playdate build files and folders
+
+*.pdx
+builds/
