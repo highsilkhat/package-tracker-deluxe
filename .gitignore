@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 .idea/
+.nova/
 
 # Created by https://www.toptal.com/developers/gitignore/api/lua
 # Edit at https://www.toptal.com/developers/gitignore?templates=lua
@@ -66,3 +67,8 @@ luac.out
 *.tar.gz
 
 # End of https://www.toptal.com/developers/gitignore/api/lua
+
+# Playdate build files and folders
+
+*.pdx
+builds/
