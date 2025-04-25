@@ -2,7 +2,7 @@
 
 Game for Playdate
 
-Programmed in `C`, leveraging `lua`.
+Programmed in `Lua`.
 
 To compile, run the following from the repository `root`
 
